@@ -11,7 +11,7 @@ console.log(dolarDun)
 
 //sabit
 const euroDun = 11.2
-//euroDun = 11 //bunu yapamazsın const olunca!!!
+//euroDun = 11 //bunu yapamazsın const olunca!!
 
 console.log(euroDun)
 
